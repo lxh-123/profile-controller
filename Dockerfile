@@ -1,1 +1,1 @@
-gcr.io/kubeflow-images-public/profile-controller:vmaster-g34aa47c2
+FROM gcr.io/kubeflow-images-public/profile-controller:vmaster-g34aa47c2
